@@ -13,7 +13,6 @@ To create a Python program to print the string in multiple lines using triple qu
 ```python
 # Reg.No-212223060014
 # Name-AKSHAYA SETTU
-# Write your code here
 
 string_single_quotes = '''I am a string literal
 ... has more than one
